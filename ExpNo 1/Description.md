@@ -82,16 +82,16 @@ print(traversedpath)
 
 ## Input:
 
-8 9
-A B
-A C
-B E
-C D
-B D
-C G
-D F
-G F
-F H 
+8 9                                
+A B                                
+A C                         
+B E                       
+C D                             
+B D                                                             
+C G                    
+D F                        
+G F                                       
+F H                         
 
 ## Output:
 
