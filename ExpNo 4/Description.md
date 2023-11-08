@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: DELLI PRIYA L</h3>
-<h3>Register Number Id: 212222230029 /h3>
+<h3>Register Number Id: 212222230029 </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -42,20 +42,8 @@ Feedback is provided in terms of heuristic function
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
-Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
-Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
-Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
-Score: 594  Solution :  8RzF:oG ]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
-....................................................<br>
-..................................................<br>
-................................................<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 0  Solution :  Artificial Intelligence<br>
+
+![image](https://github.com/Priya-Loganathan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121166075/17c6a129-5eed-4aeb-863b-4778f6a70d07)
+
+## Result:
+Thus, Simple Hill Climbing Algorithm and Generating a String by Mutating a Single Character at each iteration is implemented successfully.
